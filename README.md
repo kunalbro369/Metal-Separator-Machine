@@ -9,4 +9,6 @@ Machine takes Iron (Fe), Stainless Steel (SS), Aluminium (Al), Copper (Cu). Thes
 From Shredder all the metals feed into the separator mechanism and further gets separated. Machine is separating Iron from simple magnetic separation technique. Similarly, SS 
 will be separated by electromagnet method and in the last stage (3rd) we are separating Al & Cu by Eddy Current separation technique.
 
+checkout parts file : [parts](https://drive.google.com/drive/u/3/folders/1ObchfhBYSnfJ_wfCMWuKD8aQ2vjYRb6J)
+
 ![Picture1](https://github.com/kunalbro369/Metal-Separator-Machine/assets/96117635/20b6dd3d-4808-4deb-a5e2-a353f9d507de)
